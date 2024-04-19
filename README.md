@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yoshito0892N
-- 👀 I’m interested in code-switching speech system
+- 👀 I’m interested in code-switching speech systems
 - 🌱 I’m currently learning multilingual ASR, TTS
 - 😄 Pronouns: He/Him
 
